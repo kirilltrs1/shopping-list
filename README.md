@@ -1,0 +1,1 @@
+A 100% HTML project to give me a basic understanding on how DOM Manipulation works. I've mastered Event Listeners, Element actions such as: Append, Remove, Add, TextContent. I've also mastered a .focus() method which I didn't know previously about.
